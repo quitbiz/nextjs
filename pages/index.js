@@ -61,7 +61,7 @@ export default function Home() {
               Docs <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Find in-depth information about Next.js features and&nbsp;API.
+              pmj Find in-depth information about Next.js features and&nbsp;API.
             </p>
           </a>
 
@@ -75,7 +75,7 @@ export default function Home() {
               Learn <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              pmj Learn about Next.js in an interactive course with&nbsp;quizzes!
             </p>
           </a>
 
@@ -89,7 +89,7 @@ export default function Home() {
               Templates <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              pmj Discover and deploy boilerplate example Next.js&nbsp;projects.
             </p>
           </a>
 
@@ -103,7 +103,7 @@ export default function Home() {
               Deploy <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Instantly deploy your Next.js site to a shareable URL
+              pmj Instantly deploy your Next.js site to a shareable URL
               with&nbsp;Vercel.
             </p>
           </a>
